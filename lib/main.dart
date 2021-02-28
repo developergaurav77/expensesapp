@@ -1,5 +1,5 @@
 import 'package:expenses_app/models/transactions.dart';
-import 'package:expenses_app/widgets/chart.dart';
+
 import 'package:expenses_app/widgets/new_transaction_users.dart';
 import 'package:expenses_app/widgets/transaction_list.dart';
 import 'package:flutter/material.dart';
